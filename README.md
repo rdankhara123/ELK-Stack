@@ -4,7 +4,6 @@ Integrate JIRA with ELK to create a ticket:  https://www.elastic.co/guide/en/x-p
 
 
 
-**** For fresher to elasticsearch world start from here****
 
 ##Install Elasticsearch on Linux and Windows for 6.4.0 version
 #### Requirements
