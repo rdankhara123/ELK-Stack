@@ -1,4 +1,4 @@
-# ELK-demo by Rahul D
+# POC ELK
 To enable Alerting by x-pack follow this doc: https://www.elastic.co/guide/en/x-pack/current/actions-email.html#gmail
 Integrate JIRA with ELK to create a ticket:  https://www.elastic.co/guide/en/x-pack/current/actions-jira.html
 
